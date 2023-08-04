@@ -387,7 +387,9 @@ body {
         font-size:2rem;
     }
     .brandname>span {
+        font-family:couture;
         font-size:2rem;
+        color:blue;
     }
     .brand>img {
         width:4rem;
@@ -434,12 +436,6 @@ body {
 }
 .icons>a:last-child {
     margin-right: 3rem;
-}
-.brandname {
-    font-size:2rem;
-}
-.brandname>span {
-    font-size:2rem;
 }
 .brand>img {
     width:4rem;
