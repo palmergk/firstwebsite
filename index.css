@@ -52,7 +52,7 @@ body {
 }
 
 .icons>a:last-child {
-    margin-right: 1rem;
+    padding-right: 1rem;
 }
 
 .icons::before {
@@ -114,7 +114,7 @@ body {
 }
 
 .pl:last-child {
-    margin-right: 3rem;
+    padding-right: 3rem;
 }
 
 .pl:hover {
@@ -212,6 +212,7 @@ body {
 .sec1 {
     height: 15rem;
     width: 90%;
+    margin:0 auto;
     display: flex;
     position: relative;
     flex-direction: column;
@@ -452,7 +453,7 @@ body {
     }
 
     .icons>a:last-child {
-        margin-right: 4rem;
+        padding-right: 4rem;
     }
 
     .brandname {
@@ -517,7 +518,7 @@ body {
     }
 
     .icons>a:last-child {
-        margin-right: 3rem;
+        padding-right: 3rem;
     }
 
     .brand>img {
@@ -547,6 +548,7 @@ body {
 
     .sec1 {
         width: 32%;
+        margin:0 auto;
     }
 
     .sec1:hover {
@@ -560,6 +562,7 @@ body {
 
     .circle-container {
         width: 32%;
+        margin:0 auto;
     }
 
     .tsection {
